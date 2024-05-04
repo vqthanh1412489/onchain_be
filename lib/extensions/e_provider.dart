@@ -1,0 +1,4 @@
+enum EProvider {
+  Chainbase,
+  Covalenthq,
+}
